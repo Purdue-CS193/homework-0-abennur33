@@ -1,11 +1,8 @@
-## Welcome to Aadit's GitHub Pages
+# Aadit's First CS193 Homework
 
 Hi my name is Aadit and I'm a freshman at Purdue University
 
-### I love Food
-_Specifically japanese food_
-
-# Countries I've visited
-- Japan
-- The bahamas
-- India
+### My favorite things about CS193
+- Low stress
+- Sit next to my friends
+- Cool teachers
